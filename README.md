@@ -68,6 +68,7 @@ This project implements an **Enterprise RAG System** that:
 ├─ requirements.txt             # Python dependencies
 ├─ README.md                    # Project explanation & setup
 └─ .gitignore
+```
 
 ## 1. Clone the repository
 
