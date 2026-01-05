@@ -43,8 +43,8 @@ This project implements an **Enterprise RAG System** that:
 - Suitable for internal risk & compliance teams
 
 ## Project Structure
-
-### Enterprise-RAG-OSFI/
+```text
+### enterprise-rag-osfi/
 │
 ├─ data/                         # Source PDFs
 │   ├─ credit_risk.pdf
