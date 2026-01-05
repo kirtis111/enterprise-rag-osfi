@@ -1,0 +1,71 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# ==============================
+# Virtual Environments
+# ==============================
+virtual_env/
+venv/
+.env/
+.env.*
+
+# ==============================
+# IDE / Editor
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Logs & Outputs
+# ==============================
+logs/
+*.log
+evaluation_log.csv
+query_log.csv
+
+# ==============================
+# Streamlit
+# ==============================
+.streamlit/
+
+# ==============================
+# Jupyter
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Large Data / Temporary Files
+# ==============================
+*.tmp
+*.cache
+
+# ==============================
+# Secrets & Keys
+# ==============================
+.env
+.env.local
+.env.production
+
+# ==============================
+# Optional: Ignore FAISS index if rebuilding
+# (Uncomment if you don't want to store embeddings)
+# ==============================
+# vectorstore/faiss_index/*.faiss
+# vectorstore/faiss_index/*.pkl
